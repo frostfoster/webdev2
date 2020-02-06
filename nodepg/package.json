@@ -1,0 +1,26 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test-nodepg": "node index.js",
+    "test-dinero-prob1": "node dinero-prob1.js",
+    "test-dinero-prob2": "node dinero-prob2.js",
+    "test-dinero-prob3": "node dinero-prob3.js",
+    "test-dinero-prob4": "node dinero-prob4.js",
+    "test-dinero-prob5": "node dinero-prob5.js",
+    "test-dinero-prob6": "node dinero-prob6.js",
+    "test-dinero-prob7": "node dinero-prob7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "how-to-npm": "^2.5.1",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
