@@ -1,0 +1,25 @@
+{
+  "name": "webdev2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3",
+    "learnyounode": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frostfoster/webdev2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frostfoster/webdev2/issues"
+  },
+  "homepage": "https://github.com/frostfoster/webdev2#readme",
+  "description": ""
+}
